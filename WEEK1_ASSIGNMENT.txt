@@ -1,0 +1,63 @@
+##########HackerRank - Domain Python##########
+
+1. Say "Hello, World!" With Python
+
+https://www.hackerrank.com/rest/contests/master/challenges/py-hello-world/hackers/import_numpy_as1/download_solution
+
+2. Python: Division
+
+https://www.hackerrank.com/rest/contests/master/challenges/python-division/hackers/import_numpy_as1/download_solution
+
+3. Arithmetic Operators
+
+https://www.hackerrank.com/rest/contests/master/challenges/python-arithmetic-operators/hackers/import_numpy_as1/download_solution
+
+4. Loops
+
+https://www.hackerrank.com/rest/contests/master/challenges/python-loops/hackers/import_numpy_as1/download_solution
+
+5. Print Function
+
+https://www.hackerrank.com/rest/contests/master/challenges/python-print/hackers/import_numpy_as1/download_solution
+
+6. Find the Runner-Up Score!
+
+https://www.hackerrank.com/rest/contests/master/challenges/find-second-maximum-number-in-a-list/hackers/import_numpy_as1/download_solution
+
+7. What's Your Name?
+
+https://www.hackerrank.com/rest/contests/master/challenges/whats-your-name/hackers/import_numpy_as1/download_solution
+
+8. Introduction to Sets
+
+https://www.hackerrank.com/rest/contests/master/challenges/py-introduction-to-sets/hackers/import_numpy_as1/download_solution
+
+9. Mod Divmod
+
+https://www.hackerrank.com/rest/contests/master/challenges/python-mod-divmod/hackers/import_numpy_as1/download_solution
+
+10. Power - Mod Power
+
+https://www.hackerrank.com/rest/contests/master/challenges/python-power-mod-power/hackers/import_numpy_as1/download_solution
+
+##########HackerRank - Domain SQL##########
+
+1. Revising the Select Query II
+
+https://www.hackerrank.com/rest/contests/master/challenges/revising-the-select-query-2/hackers/import_numpy_as1/download_solution
+
+2. Select All
+
+https://www.hackerrank.com/rest/contests/master/challenges/select-all-sql/hackers/import_numpy_as1/download_solution
+
+3. Select By ID
+
+https://www.hackerrank.com/rest/contests/master/challenges/select-by-id/hackers/import_numpy_as1/download_solution
+
+4. Japanese Cities' Attributes
+
+https://www.hackerrank.com/rest/contests/master/challenges/japanese-cities-attributes/hackers/import_numpy_as1/download_solution
+
+5. Japanese Cities' Names
+
+https://www.hackerrank.com/rest/contests/master/challenges/japanese-cities-name/hackers/import_numpy_as1/download_solution
